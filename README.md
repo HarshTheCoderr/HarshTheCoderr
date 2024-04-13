@@ -5,5 +5,3 @@
 🚀 I love tackling challenges that push the boundaries of web development and am eager to collaborate on projects that blend aesthetic interfaces with powerful backend functionalities.
 
 📫 Contact me at mailto:vaghelaharsh595@gmail.com for project collaborations or just to connect!
-
-⚡ Fun fact: I built a complete web app in just 24 hours during a hackathon!
